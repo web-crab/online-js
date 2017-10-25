@@ -1,0 +1,27 @@
+{
+  "name": "online-js",
+  "version": "1.0.0",
+  "description": "Checking internet network connection. An alternative for Offline.js.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/klimash/online-js.git"
+  },
+  "keywords": [
+    "online",
+    "offline",
+    "vue-online",
+    "vue-offline",
+    "check",
+    "network",
+    "internet",
+    "connection",
+    "offline-js"
+  ],
+  "author": "Andrey Klimash | <andrey.klimash@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/klimash/online-js/issues"
+  },
+  "homepage": "https://github.com/klimash/online-js#readme"
+}
