@@ -2,7 +2,10 @@
   "name": "online-js",
   "version": "1.0.0",
   "description": "Checking internet network connection. An alternative for Offline.js.",
-  "main": "index.js",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "gulp"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/klimash/online-js.git"
@@ -23,5 +26,14 @@
   "bugs": {
     "url": "https://github.com/klimash/online-js/issues"
   },
-  "homepage": "https://github.com/klimash/online-js#readme"
+  "homepage": "https://github.com/klimash/online-js#readme",
+  "dependencies": {
+    "axios": "^0.17.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^7.0.0"
+  }
 }

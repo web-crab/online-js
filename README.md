@@ -10,9 +10,9 @@ Latest ✔ | Latest ✔ | Latest ✔ | Latest ✔ | Latest ✔ | 8+ ✔ |
 
 ## Installing
 ``` bash
-npm i axios online-js --save
+npm i online-js --save
 # or
-yarn add axios online-js
+yarn add online-js
 ```
 
 ## Usage
