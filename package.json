@@ -1,6 +1,6 @@
 {
   "name": "online-js",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Checking internet network connection. An alternative for Offline.js.",
   "main": "dist/index.js",
   "scripts": {
