@@ -1,10 +1,9 @@
+# Online-js
+Checking internet connection.
 <p>
   <a href="https://www.npmjs.com/package/online-js"><img src="https://img.shields.io/npm/v/online-js.svg?style=flat-square" alt="npm version"></a>
 <a href="http://npm-stat.com/charts.html?package=online-js"><img src="https://img.shields.io/npm/dm/online-js.svg?style=flat-square" alt="npm downloads"></a>
 <a href="https://telegram.me/AndreyKlimash"><img src="https://img.shields.io/badge/Telegram-%40AndreyKlimash-%23FFFFFF.svg?style=flat-square" alt="gitter chat"></a></p>
-
-# Online-js
-Checking internet connection.
 
 ## Browser Support
 ![Chrome](https://raw.github.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png) | ![Firefox](https://raw.github.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png) | ![Safari](https://raw.github.com/alrra/browser-logos/master/src/safari/safari_48x48.png) | ![Opera](https://raw.github.com/alrra/browser-logos/master/src/opera/opera_48x48.png) | ![Edge](https://raw.github.com/alrra/browser-logos/master/src/edge/edge_48x48.png) | ![IE](https://raw.github.com/alrra/browser-logos/master/src/archive/internet-explorer_9-11/internet-explorer_9-11_48x48.png) |
