@@ -1,5 +1,5 @@
-import { create } from 'axios'
-const  { get } = create({ timeout: 1000 })
+import { create } from 'axios';
+const  { get } = create({ timeout: 1000 });
 
 export default (options = {}) => {
 
@@ -7,7 +7,7 @@ export default (options = {}) => {
     url: 'favicon.ico',
     delay: 2,
     startOnLoad: true
-  }, options)
+  }, options);
 
   let currentStatus = null
   let timer = null
